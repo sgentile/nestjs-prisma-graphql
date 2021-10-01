@@ -1,6 +1,6 @@
-# Next.js TypeScript Material UI quality checking project <!-- omit in toc -->
+# NestJS TypeScript, Prisma, Apollo Server GraphQL project <!-- omit in toc -->
 
-Includes TypeScript, Material UI, ESLint, Jest, and React Testing Library
+Includes NestJS TypeScript, Prisma, Apollo Server GraphQL project
 
 -   [App startup](#app-startup)
     -   [SQLite](#sqlite)
